@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## User-CRUD-Redux
 
-I am using in this project, "react-redux": "^8.0.2", "react-router-dom": "^6.3.0", "react-scripts": "5.0.1", "redux": "^4.2.0",
+I am using in this project,  "bootstrap": "^5.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
 
 ## Available Scripts
 
@@ -14,7 +20,7 @@ In the project directory, you can run:
 
 ### setupEnvironment 
 
-git clone https://github.com/Anil-Kumar-Git/Routes-Redux-Action.git
+git clone https://github.com/expert-Acode/userCrud-redux.git
 
 use node version 18 , npm install , npm start
 
@@ -38,15 +44,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# userCrud-redux
